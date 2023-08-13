@@ -56,6 +56,7 @@ img{
     width: 680px;
     margin-left: auto;
     max-height: 300px;
+    border-radius: 10px;
 }
 .header-section-two{
     display: flex;
