@@ -93,6 +93,9 @@ svg{
     margin: 10px;
     text-align: center;
 }
+.captain-america{
+    order: -1;
+}
 .section-two{
     display: flex;
     flex-direction: column;
